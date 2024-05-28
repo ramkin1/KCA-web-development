@@ -1,0 +1,42 @@
+*{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.navbar{
+    background: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     padding-right: 15px; padding: 15px; text-align: right;
+}
+li{
+    list-style: none; display: inline-block;
+}
+li a{
+    color: orange; font-size: 18px; font-weight: bold; margin-right: 25px; 
+}
+button{
+    background-color: tan; margin-left: 10px; border-radius: 10px; padding: 10px;width: 90px;
+}
+button{
+    color: black; font-weight: bold; font-size: 15px;
+}
+.fa-square-twitter{
+    font-size: 50px; margin-top: 20px; margin-left: 100px;
+}
+.fa-square-twitter a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; margin-left: 20px; margin-bottom: 5px;
+    color: crimson;  font-weight: bold;
+}
+.fa-instagram{
+    font-size: 50px; margin-top: 20px; margin-left: 100px;
+}
+.fa-instagram a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; margin-left: 20px; margin-bottom: 5px;
+    color: crimson; font-weight: bold;
+}
+.fa-phone{
+    font-size: 50px; margin-top: 20px; margin-left: 100px;
+}
+.fa-phone a{
+    font-family: Georgia, 'Times New Roman', Times, serif; font-size: 20px; margin-left: 20px; margin-bottom: 5px; color: crimson;
+}

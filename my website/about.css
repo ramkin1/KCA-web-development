@@ -1,0 +1,29 @@
+*{
+    text-decoration: none;
+}
+h1{
+    text-align: center; font-weight: bold; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar{
+    background: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     padding-right: 15px; padding: 15px; text-align: right;
+}
+li{
+    list-style: none; display: inline-block;
+}
+li a{
+    color: orange; font-size: 18px; font-weight: bold; margin-right: 25px; 
+}
+button{
+    background-color: tan; margin-left: 10px; border-radius: 10px; padding: 10px;width: 90px;
+}
+button{
+    color: black; font-weight: bold; font-size: 15px;
+}
+h2{
+    text-align: left; font-family: Verdana, Geneva, Tahoma, sans-serif; color: peru;
+}
+h3{
+    text-align: left; font-family: Verdana, Geneva, Tahoma, sans-serif; color: peru;
+}
+ 
