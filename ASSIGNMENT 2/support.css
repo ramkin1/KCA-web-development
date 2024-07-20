@@ -1,0 +1,54 @@
+*{ 
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(181, 39, 39);
+    font-weight: bolder;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.navbar{
+    font-family:fantasy ;
+    display: flex;
+    float:right ;
+   
+}
+.navbar ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.navbar ul li a{
+    color: rgb(162, 40, 40);
+}
+.navbar ul li button{
+    font-family: fantasy;
+    background-color: gainsboro;
+    border-style: none;
+}
+.line{
+    margin: 50px;
+}
+body{
+    min-height: auto;
+    background-image: url(image.jpeg);
+    }
+i{
+     margin-left: 100px;
+    font-size: 50px;
+    
+}
+.fa-square-x-twitter{
+    color: rgb(16, 16, 37);
+}
+.fa-youtube{
+    color: red;
+}
+.fa-facebook{
+    color: royalblue;
+}
+.fa-square-instagram{
+    color: hsla(281, 49%, 41%, 0.801);
+}

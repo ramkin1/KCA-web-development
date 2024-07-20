@@ -1,0 +1,50 @@
+*{ 
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+h1{
+    color: whitesmoke;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.navbar{
+    font-family:fantasy ;
+    display: flex;
+    float:right ;
+   
+}
+.navbar ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.navbar ul li a{
+    color: white;
+}
+.navbar ul li button{
+    font-family: fantasy;
+    background-color: rgb(27, 12, 12);
+    border-style: none;
+}
+.line{
+    margin: 50px;
+}
+body{
+    min-height: auto;
+    background-color:rgb(27, 12, 12)
+}
+.product{
+    border-radius: 40px;
+    margin-bottom: 130px;
+
+}
+.product2{
+    border-radius: 40px;
+    margin: 10;
+}
+.product3{
+    border-radius: 40px;
+    margin: 10;
+}

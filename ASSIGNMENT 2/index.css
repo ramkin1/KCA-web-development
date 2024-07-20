@@ -1,0 +1,46 @@
+*{ 
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(181, 39, 39);
+    font-weight: bolder;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.navbar{
+    font-family:fantasy ;
+    display: flex;
+    float:right ;
+   
+}
+.navbar ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.navbar ul li a{
+    color: rgb(162, 40, 40);
+}
+.navbar ul li button{
+    font-family: fantasy;
+    background-color: gainsboro;
+    border-style: none;
+}
+.line{
+    margin: 50px;
+}
+body{
+    min-height: auto;
+    background-image: url(image.jpeg);
+}
+p{
+    color: rgba(222, 131, 131, 0.546);
+    margin-top: 100px;
+    text-overflow: ellipsis;
+    font-size: 100px;
+    font-family: 'Open Sans', 'Helvetica Neue';
+    font-weight: bold;
+    
+}
